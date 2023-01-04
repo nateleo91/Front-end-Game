@@ -67,12 +67,10 @@ body, html {
 
   .checkAnswers {
     border-top: 1px solid white;
-    margin: 0 160px 0;
   }
   
   .checker {
     display: inline-block;
-    width: 200px;
     margin: 0 auto;
   }
   
